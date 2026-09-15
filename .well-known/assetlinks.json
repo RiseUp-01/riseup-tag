@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "store.riseup.app",
+      "sha256_cert_fingerprints": [
+        "2B:62:59:72:2F:BD:99:F6:BC:1C:64:30:CC:C0:E7:00:63:6B:02:1E:A8:EA:8F:28:D7:DF:58:70:5D:83:C6:22"
+      ]
+    }
+  }
+]

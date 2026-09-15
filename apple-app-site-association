@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "WZ37QGVTMZ.com.tristanhaeseker.riseup",
+          "WZ37QGVTMZ.com.tristanhaeseker.riseup.beta"
+        ],
+        "components": [
+          {
+            "/": "/t/*",
+            "comment": "Ein RiseUp-Tag. Oeffnet die App statt der Website."
+          }
+        ]
+      }
+    ]
+  }
+}
