@@ -1,11 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "store.riseup.app",
       "sha256_cert_fingerprints": [
-        "2B:62:59:72:2F:BD:99:F6:BC:1C:64:30:CC:C0:E7:00:63:6B:02:1E:A8:EA:8F:28:D7:DF:58:70:5D:83:C6:22"
+        "2B:62:59:72:2F:BD:99:F6:BC:1C:64:30:CC:C0:E7:00:63:6B:02:1E:A8:EA:8F:28:D7:DF:58:70:5D:83:C6:22",
+        "98:86:9B:76:19:3F:01:6C:42:DE:B3:ED:72:06:8D:8E:45:99:25:F4:97:58:17:1F:F1:A7:BD:E7:E7:78:2D:D6"
       ]
     }
   }
